@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👨‍💻 Shahin Shah Kozhimadam
 
-<!--
-**shahinntu/shahinntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI/ML Engineer | MSc AI Student**  
+🎮 **Gamer | Tech Enthusiast | Problem Solver**  
+📍 Singapore  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+Hey there! I'm Shahin, an AI/ML engineer who loves turning complex ideas into reality using the power of machine learning. Currently geeking out over LLMs, computer vision, and multi-modal models. When I'm not coding, you’ll find me gaming or tweaking some AI models just for fun! 😄
+
+---
+
+### ⚡ What I Do
+- 🧠 **LLMs & Large Models** – Working with BERT, GPT, LLaMA, and more to push the boundaries of AI 🤖
+- 🎨 **Creative AI** – Generating cool images with Stable Diffusion & GANs 🎨
+- 📄 **Document AI** – Building smart tools for document understanding and extraction 📝
+- 🛠 **AI Tools** – PyTorch, Huggingface, LangChain… the usual suspects 🔧
+
+---
+
+### 🌱 Fun Fact
+- 💻 I’m **GPU poor** but still managing to get things done! 😅
+
+---
+
+### 📫 Reach Me
+- [Email](mailto:shahinshahkm@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/shahin-shah-28209a69/)
+
+---
+
+Let’s build something awesome together! 😎
