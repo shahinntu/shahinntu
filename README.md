@@ -4,6 +4,8 @@
 🎮 **Gamer | Tech Enthusiast | Problem Solver**  
 📍 Singapore  
 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="24" height="24">](https://www.linkedin.com/in/shahin-shah-28209a69/)
+[<img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="24" height="24">](mailto:shahinshahkm@gmail.com)
 ---
 
 ### 💡 About Me
@@ -21,12 +23,6 @@ Hey there! I'm Shahin, an AI/ML engineer who loves turning complex ideas into re
 
 ### 🌱 Fun Fact
 - 💻 I’m **GPU poor** but still managing to get things done! 😅
-
----
-
-### 📫 Reach Me
-- [Email](mailto:shahinshahkm@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/shahin-shah-28209a69/)
 
 ---
 
