@@ -22,9 +22,4 @@ Hey there! I'm Shahin, an AI/ML engineer who loves turning complex ideas into re
 
 ---
 
-### 🌱 Fun Fact
-- 💻 I’m **GPU poor** but still managing to get things done! 😅
-
----
-
 Let’s build something awesome together! 😎
